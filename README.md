@@ -6,7 +6,7 @@
 
 &nbsp;
 
-<img src="https://github.com/JacopoCasanova98/Playground-frontend-test-di-Jacopo-Casanova/blob/main/src/img/github-img/desktop-version.JPG" width="700"/> 
+<img src="https://github.com/JacopoCasanova98/Playground-test-frontend-di-Jacopo-Casanova/blob/main/src/img/github-img/desktop-version.JPG" width="700"/> 
 
 &nbsp;
 
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-<img src="https://github.com/JacopoCasanova98/Playground-frontend-test-di-Jacopo-Casanova/blob/main/src/img/github-img/mobile-version.JPG" width="200"/> 
+<img src="https://github.com/JacopoCasanova98/Playground-test-frontend-di-Jacopo-Casanova/blob/main/src/img/github-img/mobile-version.JPG" width="200"/> 
 
 &nbsp;
 
