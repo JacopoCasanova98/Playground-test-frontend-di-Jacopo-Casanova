@@ -28,4 +28,4 @@
 
 ### 🙌 Also updated on
 
-### 🌐 https://65733681648ed7276b177174--silver-heliotrope-040fcf.netlify.app/
+### 🌐 https://657339f613a6c829b72b795a--musical-khapse-3d1e52.netlify.app/
