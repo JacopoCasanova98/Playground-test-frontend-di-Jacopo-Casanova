@@ -1,0 +1,43 @@
+.cookie-policy {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.3rem;
+    font-size: var(--p-font-size);
+    font-weight: var(--p-font-weight);
+    background-color: var(--background-color);
+}
+
+.button-cookies {
+    padding: 0.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: black;
+    color: var(--background-color);
+    font-size: var(--p-font-size);
+    font-weight: var(--p-font-weight);
+
+    cursor: pointer;
+}
+
+.hide-cookies {
+    display: none;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .cookie-policy {
+        flex-direction: column;
+    }
+
+    .cookies-text {
+        text-align: center;
+        font-size: 1.5rem;
+    }
+
+    .button-cookies {
+        font-size: 1.5rem;
+    }
+}

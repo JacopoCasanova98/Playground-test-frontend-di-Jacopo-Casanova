@@ -1,0 +1,50 @@
+.swiper-slide {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img-hello {
+    width: 100%;
+    max-width: 100%;
+}
+
+
+.text-div {
+    position: absolute;
+    top: 50%; 
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: var(--background-color);
+    font-size: 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+}
+
+.text-slide {
+    font-size: var(--h1-font-size);
+    text-align: center;
+    transition: .3s;
+}
+
+.text-slide:hover {
+    color: var(--img-hello-color);
+    transform: translateY(-0.4rem);
+}
+
+.text-p {
+    font-family: 'Gotham-Medium';
+    font-size: var(--p-font-size);
+    font-weight: var(--p-font-weight);
+    font-family: 'Gotham-Medium', sans-serif;
+    border-top: 1rem;
+    text-align: center;
+    
+}
+
+
+@media screen and (max-width: 1024px) {
+    .text-p {
+        font-size: var(--p-font-size-m);
+    }
+}
