@@ -1,15 +1,31 @@
-# 🚀 Welcome to your new awesome project!
+# Playground Frontend Test 🌐💻
 
-This project has been created using **webpack-cli**, you can now run
+&nbsp;
 
-```
-npm run build
-```
+## 🖥 Desktop version
 
-or
+&nbsp;
 
-```
-yarn build
-```
+<img src="https://github.com/JacopoCasanova98/Playground-frontend-test-di-Jacopo-Casanova/blob/main/src/img/github-img/desktop-version.JPG" width="700"/> 
 
-to bundle your application
+&nbsp;
+
+## 📲 Mobile version
+
+&nbsp;
+
+<img src="https://github.com/JacopoCasanova98/Playground-frontend-test-di-Jacopo-Casanova/blob/main/src/img/github-img/mobile-version.JPG" width="200"/> 
+
+&nbsp;
+
+## 💻 Developed with
+
+* 💠 HTML
+* 💠 CSS
+* 💠 Javascript
+
+&nbsp;
+
+### 🙌 Also updated on
+
+### 🌐 https://65733681648ed7276b177174--silver-heliotrope-040fcf.netlify.app/
